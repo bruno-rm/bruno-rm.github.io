@@ -1,7 +1,7 @@
 title: Bruno Mundim
 logo: /assets/img/logo.png
 description: Bruno Mundim's CV.
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
