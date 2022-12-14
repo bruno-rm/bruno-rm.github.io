@@ -11,22 +11,22 @@ I have a background in philosophy. My main research topics during my academic ye
 Pontifícia Universidade Católica do Rio de Janeiro, PUC-Rio, Brazil<br>
 (Research stay at Université Paris 1 Pantheon-Sorbonne)
 
-**2013** M.A. in Philosophy<br>
+2013 **M.A. in Philosophy**<br>
 Universidade Federal de Goiás, Brazil
 
-**2010** B.A. in Philosophy<br>
+2010 **B.A. in Philosophy**<br>
 Universidade Federal de Goiás, Brazil
 
 # Experience
 
-**Since 2021** Researcher at Tech for Forests<br>
+Since 2021 **Researcher at Tech for Forests**<br>
 [https://digitalinfrastructure.fund/projects/digital-infrastructure-vs-climate-change](https://digitalinfrastructure.fund/projects/digital-infrastructure-vs-climate-change/){:target="_blank"}<br>
 [techforforests.org](https://techforforests.org){:target="_blank"}
 
-**2019-2020** Researcher at Caravana Tech<br>
+2019-2020 **Researcher at Caravana Tech**<br>
 [acaravana.tech](https://acaravana.tech){:target="_blank"}
 
-**2015-2016** Member of the editorial board of Analógos magazine<br>
+2015-2016 **Member of the editorial board of AnaLógos magazine**<br>
 [http://www.fil.puc-rio.br/alunos/analogos](http://www.fil.puc-rio.br/alunos/analogos/){:target="_blank"}
 
 **Freelance web developer**<br>
@@ -34,6 +34,21 @@ Most recent works:<br>
 * [https://techforforests.org](https://techforforests.org){:target="_blank"}<br>
 * [https://acaravana.tech](https://acaravana.tech/){:target="_blank"}<br>
 * [https://mandrakecomicshop.com.br](https://mandrakecomicshop.com.br/){:target="_blank"}<br>
+
+# Publications
+
+## Book chapter
+
+Mundim, B. R (2020). "Demonstração, Tempo e Verdade na Filosofia da Matemática: Uma Perspectiva Fenomenológica". In: Fernandes, D. P. e Orellana, R. L. (Ed.). El jardín de senderos que se bifurcan y confluyen. Valparaíso: Selección de Textos.<br>
+[https://mandrakecomicshop.com.br](https://dialnet.unirioja.es/servlet/libro?codigo=857445]{:target="_blank"}
+
+## Articles
+
+Mundim, B. R. "Consent and Privacy in the Context of Big Data".<br> 
+[https://acaravana.tech/consent-big-data.html](https://acaravana.tech/consent-big-data.html){:target="_blank"}.
+
+Mundim, B. R. "Technology, communication and power".<br> 
+[https://acaravana.tech/consent-big-data.html](https://acaravana.tech/consent-big-data.html){:target="_blank"}.
 
 
 
