@@ -20,8 +20,8 @@ Universidade Federal de Goiás, Brazil
 # Experience
 
 Since 2021 **Researcher at Tech for Forests**<br>
-[https://digitalinfrastructure.fund/projects/digital-infrastructure-vs-climate-change](https://digitalinfrastructure.fund/projects/digital-infrastructure-vs-climate-change/){:target="_blank"}<br>
-[techforforests.org](https://techforforests.org){:target="_blank"}
+* [https://digitalinfrastructure.fund/projects/digital-infrastructure-vs-climate-change](https://digitalinfrastructure.fund/projects/digital-infrastructure-vs-climate-change/){:target="_blank"}<br>
+* [techforforests.org](https://techforforests.org){:target="_blank"}
 
 2019-2020 **Researcher at Caravana Tech**<br>
 [acaravana.tech](https://acaravana.tech){:target="_blank"}
