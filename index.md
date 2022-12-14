@@ -40,7 +40,7 @@ Most recent works:<br>
 ## Book chapter
 
 Mundim, B. R (2020). "Demonstração, Tempo e Verdade na Filosofia da Matemática: Uma Perspectiva Fenomenológica". In: Fernandes, D. P. e Orellana, R. L. (Ed.). El jardín de senderos que se bifurcan y confluyen. Valparaíso: Selección de Textos.<br>
-[https://mandrakecomicshop.com.br](https://dialnet.unirioja.es/servlet/libro?codigo=857445]{:target="_blank"}
+[https://dialnet.unirioja.es/servlet/libro?codigo=857445](https://dialnet.unirioja.es/servlet/libro?codigo=857445){:target="_blank"}
 
 ## Articles
 
@@ -48,7 +48,7 @@ Mundim, B. R. "Consent and Privacy in the Context of Big Data".<br>
 [https://acaravana.tech/consent-big-data.html](https://acaravana.tech/consent-big-data.html){:target="_blank"}.
 
 Mundim, B. R. "Technology, communication and power".<br> 
-[https://acaravana.tech/consent-big-data.html](https://acaravana.tech/consent-big-data.html){:target="_blank"}.
+[https://techforforests.org/technology-communication-and-power](https://techforforests.org/technology-communication-and-power){:target="_blank"}.
 
 
 
