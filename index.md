@@ -1,6 +1,35 @@
 ---
 layout: default
 ---
+# About me
+
+I have a background in philosophy. My main research topics during my academic years were logic and philosophy of mathematics. I recently researched open-source digital infrastructures used by communities threatened by violation of civil and environmental rights.
+
+# Education
+
+**2019** Ph.D. in Philosophy<br>
+Pontifícia Universidade Católica do Rio de Janeiro, PUC-Rio, Brazil<br>
+(Research stay at Université Paris 1 Pantheon-Sorbonne)
+
+**2013** M.A. in Philosophy<br>
+Universidade Federal de Goiás, Brazil
+
+**2010** B.A. in Philosophy<br>
+Universidade Federal de Goiás, Brazil
+
+# Experience
+
+**Since 2020** Researcher at Tech for Forests<br>
+<a href="https://digitalinfrastructure.fund/projects/digital-infrastructure-vs-climate-change" target="_blank>https://digitalinfrastructure.fund/projects/digital-infrastructure-vs-climate-change</a>
+[https://digitalinfrastructure.fund/projects/digital-infrastructure-vs-climate-change](https://digitalinfrastructure.fund/projects/digital-infrastructure-vs-climate-change/){:target="_blank"}<br>
+[techforforests.org](techforforests.org){:target="_blank"}
+
+**2019-2020** Researcher at Caravana Tech<br>
+[acaravana.tech](acaravana.tech){:target="_blank"}
+
+**2015-2016** Member of the editorial board of Analógos magazine<br>
+[http://www.fil.puc-rio.br/alunos/analogos](http://www.fil.puc-rio.br/alunos/analogos/){:target="_blank"}
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -11,6 +40,8 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Experience
+
+[Link text Here](https://link-url-here.org)
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
