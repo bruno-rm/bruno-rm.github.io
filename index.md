@@ -21,10 +21,10 @@ Universidade Federal de Goiás, Brazil
 
 Since 2021 **Researcher at Tech for Forests**<br>
 * [https://digitalinfrastructure.fund/projects/digital-infrastructure-vs-climate-change](https://digitalinfrastructure.fund/projects/digital-infrastructure-vs-climate-change/){:target="_blank"}<br>
-* [techforforests.org](https://techforforests.org){:target="_blank"}
+* [techforforests.org](https://techforforests.org/about/){:target="_blank"}
 
 2019-2020 **Researcher at Caravana Tech**<br>
-[acaravana.tech](https://acaravana.tech){:target="_blank"}
+[acaravana.tech](https://acaravana.tech/who.html){:target="_blank"}
 
 2015-2016 **Member of the editorial board of AnaLógos magazine**<br>
 [http://www.fil.puc-rio.br/alunos/analogos](http://www.fil.puc-rio.br/alunos/analogos/){:target="_blank"}
