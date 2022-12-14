@@ -19,7 +19,7 @@ Universidade Federal de Goiás, Brazil
 
 # Experience
 
-**Since 2020** Researcher at Tech for Forests<br>
+**Since 2021** Researcher at Tech for Forests<br>
 [https://digitalinfrastructure.fund/projects/digital-infrastructure-vs-climate-change](https://digitalinfrastructure.fund/projects/digital-infrastructure-vs-climate-change/){:target="_blank"}<br>
 [techforforests.org](https://techforforests.org){:target="_blank"}
 
@@ -28,6 +28,13 @@ Universidade Federal de Goiás, Brazil
 
 **2015-2016** Member of the editorial board of Analógos magazine<br>
 [http://www.fil.puc-rio.br/alunos/analogos](http://www.fil.puc-rio.br/alunos/analogos/){:target="_blank"}
+
+**Freelance web developer**<br>
+Most recent works:<br>
+[https://techforforests.org](https://techforforests.org){:target="_blank"}<br>
+[https://acaravana.tech](https://acaravana.tech/){:target="_blank"}<br>
+[https://mandrakecomicshop.com.br](https://mandrakecomicshop.com.br/){:target="_blank"}<br>
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
