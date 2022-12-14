@@ -31,9 +31,9 @@ Universidade Federal de Goiás, Brazil
 
 **Freelance web developer**<br>
 Most recent works:<br>
-[https://techforforests.org](https://techforforests.org){:target="_blank"}<br>
-[https://acaravana.tech](https://acaravana.tech/){:target="_blank"}<br>
-[https://mandrakecomicshop.com.br](https://mandrakecomicshop.com.br/){:target="_blank"}<br>
+* [https://techforforests.org](https://techforforests.org){:target="_blank"}<br>
+* [https://acaravana.tech](https://acaravana.tech/){:target="_blank"}<br>
+* [https://mandrakecomicshop.com.br](https://mandrakecomicshop.com.br/){:target="_blank"}<br>
 
 
 
