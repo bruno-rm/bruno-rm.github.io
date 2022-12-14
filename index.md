@@ -7,7 +7,7 @@ I have a background in philosophy. My main research topics during my academic ye
 
 # Education
 
-**2019** Ph.D. in Philosophy<br>
+2019 **Ph.D. in Philosophy**<br>
 Pontifícia Universidade Católica do Rio de Janeiro, PUC-Rio, Brazil<br>
 (Research stay at Université Paris 1 Pantheon-Sorbonne)
 
