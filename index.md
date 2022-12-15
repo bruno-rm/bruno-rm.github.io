@@ -50,6 +50,6 @@ Mundim, B. R. "Consent and Privacy in the Context of Big Data".<br>
 Mundim, B. R. "Technology, communication and power".<br> 
 [https://techforforests.org/technology-communication-and-power](https://techforforests.org/technology-communication-and-power){:target="_blank"}.
 
-# Contact
+## Contact
 
 ![Contact](https://bruno-rm.github.io/assets/img/contato.png)
