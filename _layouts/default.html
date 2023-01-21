@@ -42,21 +42,21 @@
       <section>
 
       {{ content }}
+        
+        <div class="mail-form">
+          <label for="myMail">
+          E-mail (in Rot13): 
+          </label>
 
+           <input type="text" id="myMail" value="oehabez@tzk.pbz">
+
+          <button onclick="convert()">Reveal it</button>
+          <button onclick="copyText()">Copy</button>
+        </div>
+        
       </section>
-      
-      <section class="mail-form">
-
-       <label for="myMail">
-       E-mail (in Rot13): 
-       </label>
-
-       <input type="text" id="myMail" value="oehabez@tzk.pbz">
-
-       <button onclick="convert()">Reveal it</button>
-       <button onclick="copyText()">Copy</button>
-
-      </section>
+     
+     
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
